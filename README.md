@@ -1,1 +1,0 @@
-# OpenMIPS_CPU
