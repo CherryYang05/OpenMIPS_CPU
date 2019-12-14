@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_2" LaunchPart="xc7a200tfbv484-2" LaunchTime="1565602996">
+  <File Type="OPT-HWDEF" Name="baudrate_gen.hwdef"/>
+  <File Type="PA-DCP" Name="baudrate_gen.dcp"/>
+  <File Type="BITSTR-BMM" Name="baudrate_gen_bd.bmm"/>
+  <File Type="PA-TCL" Name="baudrate_gen.tcl"/>
+  <File Type="REPORTS-TCL" Name="baudrate_gen_reports.tcl"/>
+  <File Type="OPT-DCP" Name="baudrate_gen_opt.dcp"/>
+  <File Type="PWROPT-DCP" Name="baudrate_gen_pwropt.dcp"/>
+  <File Type="PLACE-DCP" Name="baudrate_gen_placed.dcp"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="baudrate_gen_incremental_reuse_pre_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="baudrate_gen_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="baudrate_gen.bin"/>
+  <File Type="PHYSOPT-DCP" Name="baudrate_gen_physopt.dcp"/>
+  <File Type="BITSTR-MSK" Name="baudrate_gen.msk"/>
+  <File Type="ROUTE-ERROR-DCP" Name="baudrate_gen_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="baudrate_gen_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="baudrate_gen_routed_bb.dcp"/>
+  <File Type="BITSTR-LTX" Name="baudrate_gen.ltx"/>
+  <File Type="BITSTR-MMI" Name="baudrate_gen.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="baudrate_gen.sysdef"/>
+  <File Type="ROUTE-TIMING-PB" Name="baudrate_gen_timing_summary_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="baudrate_gen_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="baudrate_gen_postroute_physopt_bb.dcp"/>
+  <File Type="BG-BIT" Name="baudrate_gen.bit"/>
+  <File Type="BITSTR-RBT" Name="baudrate_gen.rbt"/>
+  <File Type="BITSTR-NKY" Name="baudrate_gen.nky"/>
+  <File Type="BG-BGN" Name="baudrate_gen.bgn"/>
+  <File Type="BG-DRC" Name="baudrate_gen.drc"/>
+  <File Type="RDI-RDI" Name="baudrate_gen.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/baudrate_gen.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/uart_txd.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/uart_tx_top.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="baudrate_gen"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/uart_tx_top.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

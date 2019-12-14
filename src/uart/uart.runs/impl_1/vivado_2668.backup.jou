@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Aug 12 17:35:42 2019
+# Process ID: 2668
+# Current directory: F:/Software/Xilinx/Vivado_Project/uart/uart.runs/impl_1
+# Command line: vivado.exe -log baudrate_gen.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source baudrate_gen.tcl -notrace
+# Log file: F:/Software/Xilinx/Vivado_Project/uart/uart.runs/impl_1/baudrate_gen.vdi
+# Journal file: F:/Software/Xilinx/Vivado_Project/uart/uart.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source baudrate_gen.tcl -notrace

@@ -1,0 +1,16 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sim_1/new/tb_full4_adder.v,1565264196,verilog,,,,tb_full4_adder,,,,,,,,
+F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sim_1/new/tb_full_adder.v,1565185031,verilog,,,,tb_full_adder,,,,,,,,
+F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sim_1/new/tb_half_adder.v,1565229095,verilog,,,,tb_half_adder,,,,,,,,
+F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sources_1/new/full4_adder3.v,1565264388,verilog,,F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sim_1/new/tb_full4_adder.v,,full4_adder3,,,,,,,,
+F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sources_1/new/full4_adder_serial.v,1565354738,verilog,,F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sources_1/new/full_adder3.v,,full4_adder_serial,,,,,,,,
+F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sources_1/new/full_adder1.v,1565165516,verilog,,F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sources_1/new/full_adder2.v,,full_adder1,,,,,,,,
+F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sources_1/new/full_adder2.v,1565189727,verilog,,F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sources_1/new/full_adder3.v,,full_adder2,,,,,,,,
+F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sources_1/new/full_adder3.v,1565186058,verilog,,F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sim_1/new/tb_full4_adder.v,,full_adder3,,,,,,,,
+F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sources_1/new/half_adder1.v,1565145200,verilog,,F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sources_1/new/half_adder2.v,,half_adder1,,,,,,,,
+F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sources_1/new/half_adder2.v,1565147038,verilog,,F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sources_1/new/half_adder3.v,,half_adder2,,,,,,,,
+F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sources_1/new/half_adder3.v,1565146639,verilog,,F:/Software/Xilinx/Vivado_Project/mux4_1/mux4_1.srcs/sim_1/new/tb_half_adder.v,,half_adder3,,,,,,,,

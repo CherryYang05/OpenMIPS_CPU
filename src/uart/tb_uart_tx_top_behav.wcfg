@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_uart_tx_top_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_uart_tx_top" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="10819450000fs"></ZoomStartTime>
+      <ZoomEndTime time="10906150001fs"></ZoomEndTime>
+      <Cursor1Time time="10857700000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="184"></NameColumnWidth>
+      <ValueColumnWidth column_width="85"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wave_markers>
+      <marker time="150003000000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/tb_uart_tx_top/tx_top/I_clk" type="logic">
+      <obj_property name="ElementShortName">I_clk</obj_property>
+      <obj_property name="ObjectShortName">I_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx_top/tx_top/I_rst_n" type="logic">
+      <obj_property name="ElementShortName">I_rst_n</obj_property>
+      <obj_property name="ObjectShortName">I_rst_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx_top/tx_top/O_rs232_txd" type="logic">
+      <obj_property name="ElementShortName">O_rs232_txd</obj_property>
+      <obj_property name="ObjectShortName">O_rs232_txd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx_top/tx_top/W_bps_tx_clk" type="logic">
+      <obj_property name="ElementShortName">W_bps_tx_clk</obj_property>
+      <obj_property name="ObjectShortName">W_bps_tx_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx_top/tx_top/W_bps_tx_clk_en" type="logic">
+      <obj_property name="ElementShortName">W_bps_tx_clk_en</obj_property>
+      <obj_property name="ObjectShortName">W_bps_tx_clk_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx_top/tx_top/W_tx_start" type="logic">
+      <obj_property name="ElementShortName">W_tx_start</obj_property>
+      <obj_property name="ObjectShortName">W_tx_start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx_top/tx_top/W_tx_done" type="logic">
+      <obj_property name="ElementShortName">W_tx_done</obj_property>
+      <obj_property name="ObjectShortName">W_tx_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx_top/tx_top/W_para_data" type="array">
+      <obj_property name="ElementShortName">W_para_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">W_para_data[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx_top/tx_top/R_data_reg" type="array">
+      <obj_property name="ElementShortName">R_data_reg[7:0]</obj_property>
+      <obj_property name="ObjectShortName">R_data_reg[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx_top/tx_top/R_cnt_1s" type="array">
+      <obj_property name="ElementShortName">R_cnt_1s[31:0]</obj_property>
+      <obj_property name="ObjectShortName">R_cnt_1s[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx_top/tx_top/R_tx_start_reg" type="logic">
+      <obj_property name="ElementShortName">R_tx_start_reg</obj_property>
+      <obj_property name="ObjectShortName">R_tx_start_reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx_top/tx_top/U_baudrate_gen/R_bps_tx_cnt" type="array">
+      <obj_property name="ElementShortName">R_bps_tx_cnt[12:0]</obj_property>
+      <obj_property name="ObjectShortName">R_bps_tx_cnt[12:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

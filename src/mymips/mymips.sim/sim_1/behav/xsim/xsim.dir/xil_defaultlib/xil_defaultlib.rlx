@@ -1,0 +1,25 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+F:/Code/Verilog/mymips/mymips.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sim_1/new/tb_openmips_min_sopc.v,1568540197,verilog,,,,tb_openmips_min_sopc,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/LLbit_reg.v,1571996161,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/cp0_reg.v,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/define.v,LLbit_reg,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/cp0_reg.v,1575792146,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/ctrl.v,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/define.v,cp0_reg,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/ctrl.v,1575793372,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/data_ram.v,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/define.v,ctrl,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/data_ram.v,1571595292,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/div.v,,data_ram,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/define.v,1575342343,verilog,,,,,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/div.v,1569648694,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/ex.v,,div,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/ex.v,1575528196,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/ex_mem.v,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/define.v,ex,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/ex_mem.v,1575792465,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/hilo_reg.v,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/define.v,ex_mem,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/hilo_reg.v,1569648673,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/id.v,,hilo_reg,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/id.v,1575343561,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/id_ex.v,,id,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/id_ex.v,1575345062,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/if_id.v,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/define.v,id_ex,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/if_id.v,1575209573,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/inst_rom.v,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/define.v,if_id,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/inst_rom.v,1569648665,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/mem.v,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/define.v,inst_rom,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/mem.v,1575792032,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/mem_wb.v,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/define.v,mem,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/mem_wb.v,1575792177,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/openmips.v,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/define.v,mem_wb,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/openmips.v,1575794063,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/openmips_min_sopc.v,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/define.v,openmips,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/openmips_min_sopc.v,1571594089,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/pc_reg.v,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/define.v,openmips_min_sopc,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/pc_reg.v,1569648732,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/regfile.v,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/define.v,pc_reg,,,,,,,,
+F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/regfile.v,1569657976,verilog,,F:/Code/Verilog/mymips/mymips.srcs/sim_1/new/tb_openmips_min_sopc.v,F:/Code/Verilog/mymips/mymips.srcs/sources_1/new/define.v,regfile,,,,,,,,

@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Dec  8 15:05:40 2019
+# Process ID: 2408
+# Current directory: F:/Code/Verilog/mymips/mymips.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source F:/Code/Verilog/mymips/mymips.sim/sim_1/behav/xsim/xsim.dir/tb_openmips_min_sopc_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: F:/Code/Verilog/mymips/mymips.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: F:/Code/Verilog/mymips/mymips.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source F:/Code/Verilog/mymips/mymips.sim/sim_1/behav/xsim/xsim.dir/tb_openmips_min_sopc_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] 'F:/Code/Verilog/mymips/mymips.sim/sim_1/behav/xsim/xsim.dir/tb_openmips_min_sopc_behav/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Sun Dec  8 15:05:46 2019. For additional details about this file, please refer to the WebTalk help file at F:/Software/Xilinx/Vivado_2018.3/Vivado/2018.3/doc/webtalk_introduction.html.
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:05 . Memory (MB): peak = 64.598 ; gain = 0.000
+INFO: [Common 17-206] Exiting Webtalk at Sun Dec  8 15:05:46 2019...

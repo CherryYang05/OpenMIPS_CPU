@@ -1,0 +1,15 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
+| Date         : Mon Aug 12 17:44:46 2019
+| Host         : DESKTOP-localhost running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file baudrate_gen_bus_skew_routed.rpt -pb baudrate_gen_bus_skew_routed.pb -rpx baudrate_gen_bus_skew_routed.rpx
+| Design       : baudrate_gen
+| Device       : 7a200t-fbv484
+| Speed File   : -2  PRODUCTION 1.23 2018-06-13
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_full4_adder_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_full4_adder" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="40000001fs"></ZoomEndTime>
+      <Cursor1Time time="40000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="145"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/tb_full4_adder/Ain" type="array">
+      <obj_property name="ElementShortName">Ain[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Ain[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_full4_adder/Bin" type="array">
+      <obj_property name="ElementShortName">Bin[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Bin[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_full4_adder/cin" type="logic">
+      <obj_property name="ElementShortName">cin</obj_property>
+      <obj_property name="ObjectShortName">cin</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_full4_adder/Sum" type="array">
+      <obj_property name="ElementShortName">Sum[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Sum[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_full4_adder/cout" type="logic">
+      <obj_property name="ElementShortName">cout</obj_property>
+      <obj_property name="ObjectShortName">cout</obj_property>
+   </wvobject>
+</wave_config>

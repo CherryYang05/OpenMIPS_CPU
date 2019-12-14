@@ -1,0 +1,18 @@
+set_property PACKAGE_PIN H7 [get_ports {O_led_out[3]}]
+set_property PACKAGE_PIN D5 [get_ports {O_led_out[2]}]
+set_property PACKAGE_PIN A3 [get_ports {O_led_out[1]}]
+set_property PACKAGE_PIN A5 [get_ports {O_led_out[0]}]
+
+set_property IOSTANDARD LVCMOS33 [get_ports {O_led_out[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {O_led_out[1]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {O_led_out[2]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {O_led_out[3]}]
+
+set_property PACKAGE_PIN AC19 [get_ports I_clk]
+set_property PACKAGE_PIN Y3 [get_ports I_rst_n]
+set_property IOSTANDARD LVCMOS33 [get_ports I_clk]
+set_property IOSTANDARD LVCMOS33 [get_ports I_rst_n]
+set_property PACKAGE_PIN H19 [get_ports O_rs232_txd]
+set_property IOSTANDARD LVCMOS33 [get_ports O_rs232_txd]
+set_property PACKAGE_PIN F23 [get_ports I_rs232_rxd]
+set_property IOSTANDARD LVCMOS33 [get_ports I_rs232_rxd]

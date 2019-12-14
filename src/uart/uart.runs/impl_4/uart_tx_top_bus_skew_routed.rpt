@@ -1,0 +1,15 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
+| Date         : Tue Aug 13 20:43:18 2019
+| Host         : DESKTOP-localhost running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file uart_tx_top_bus_skew_routed.rpt -pb uart_tx_top_bus_skew_routed.pb -rpx uart_tx_top_bus_skew_routed.rpx
+| Design       : uart_tx_top
+| Device       : 7a200t-fbg676
+| Speed File   : -1  PRODUCTION 1.23 2018-06-13
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

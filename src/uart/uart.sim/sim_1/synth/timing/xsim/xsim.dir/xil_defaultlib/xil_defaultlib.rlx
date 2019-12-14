@@ -1,0 +1,8 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+F:/Software/Xilinx/Vivado_Project/uart/uart.sim/sim_1/synth/timing/xsim/tb_uart_tx_top_time_synth.v,1565602383,verilog,,F:/Software/Xilinx/Vivado_Project/uart/uart.srcs/sources_1/new/uart_tx_top.v,,baudrate_gen;glbl,,,,,,,,
+F:/Software/Xilinx/Vivado_Project/uart/uart.srcs/sim_1/new/tb_uart_tx_top.v,1565600592,verilog,,,,tb_uart_tx_top,,,,,,,,
+F:/Software/Xilinx/Vivado_Project/uart/uart.srcs/sources_1/new/uart_tx_top.v,1565600504,verilog,,F:/Software/Xilinx/Vivado_Project/uart/uart.srcs/sources_1/new/uart_txd.v,,uart_tx_top,,,,,,,,
+F:/Software/Xilinx/Vivado_Project/uart/uart.srcs/sources_1/new/uart_txd.v,1565591921,verilog,,F:/Software/Xilinx/Vivado_Project/uart/uart.srcs/sim_1/new/tb_uart_tx_top.v,,uart_txd,,,,,,,,
